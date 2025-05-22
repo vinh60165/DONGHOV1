@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QLDONGHO/static/css/main.5b274899.css",
+    "main.js": "/QLDONGHO/static/js/main.2249d324.js",
+    "static/js/453.f066061f.chunk.js": "/QLDONGHO/static/js/453.f066061f.chunk.js",
+    "index.html": "/QLDONGHO/index.html",
+    "main.5b274899.css.map": "/QLDONGHO/static/css/main.5b274899.css.map",
+    "main.2249d324.js.map": "/QLDONGHO/static/js/main.2249d324.js.map",
+    "453.f066061f.chunk.js.map": "/QLDONGHO/static/js/453.f066061f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b274899.css",
+    "static/js/main.2249d324.js"
+  ]
+}
